@@ -4,7 +4,7 @@
 
 ## Index
 
-1. [Week 1](#1-Week-1)
+1. [Week 1](src/week1.md)
 2. [Week 2](#2-Week-2)
 3. [Week 3](#3-Week-3)
 4. [Week 4](#4-Week-4)
