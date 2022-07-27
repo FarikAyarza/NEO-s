@@ -34,12 +34,3 @@
 
 
   ## Pseucode Currency Converter
-
-    Answer:
-
-    1.  START
-    2. USDMont: READ
-    3. BTC Cost: READ FROM [(https://es.investing.com/currencies/usd-btc-converter)]
-    4. Total USD TO BTC: *
-    5.  PRINT: COST USD TO BTC
-    6. END
