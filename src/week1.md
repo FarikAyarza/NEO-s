@@ -43,20 +43,3 @@
     4. Total USD TO BTC: *
     5.  PRINT: COST USD TO BTC
     6. END
-
-
-
-
-
-
-
-
-
-
-<script src="https://utteranc.es/client.js"
-        repo="FarikAyarza/NEO-s"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
