@@ -33,4 +33,24 @@
     End point: END
 
 
-  ## Pseucode Currency Converter
+     ## Pseucode Currency Converter
+
+    Answer:
+
+    1. START
+    2. USDMont: READ
+    3. BTC Cost: READ FROM (https://es.investing.com/currencies/usd-btc-converter)
+    4. Total USD TO BTC: *
+    5.  PRINT: COST USD TO BTC
+    6. END
+
+4. Learn about [High and Low level languages](https://www.youtube.com/watch?v=bUWCD45qniA)
+
+Answer:
+Primero hay que tomar en cuenta la definición del Lenguaje Máquina, la cual como sabemos es una sistema de Códigos interpretable directamente por un circuito microprogramable, como el microprocesador de una computadora.
+Por lo que es importante saber eso para poder desarrollar los siguientes terminos del "High and Lowe level Languages"
+1. Low Level Languages: Su definición es que dicho lenguaje proporciona o ninguna abstracción (o sea la conceptualización) del micropocesador de una computadora. Por lo que el traslado de dicho lenguaje a una maquina es sencilla.
+Otro ejemplo sería el ensamblador "assembler", que es un tipo de programa informático encargado de traducir un archivo fuente, escrito en el lenguaje ensamblador, a un archivo fuente.
+Por lo que entiendo es que se requiere un alto grado de expecialización por parte de los programadores, ya que dicho lenguaje es exclusivo de un ordenador o plataforma donde se ejecuten.
+
+2. High Level Languages: 
