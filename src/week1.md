@@ -10,3 +10,53 @@
 
     <p> R= Es ambas, ya que según los creadores de Java querían un lenguaje compilado pero a su vez que fuese ejectuado en diferentes tipos de sistemas operativos, por lo que buscando información adicional pude encontrar que <em>es un lenguaje particular porque es compilado, pero es compilado a un lenguaje intermedio llamado bytecode, que después es interpretado</em>
     Dando como fin que al ser creado como un <strong>lenguaje compilado</strong> debe compilarse con el código fuente de Java hasta el código de bytes . Luego el código de bytes es ejecutado por una máquina virtual Java (JVM). Para luego ser <strong>interpretado</strong>  por una máquina virtual Java (JVM).
+
+3. [Pseudocode Currency Converter](./exercises/e00/desc) exercise
+
+    Available Instructions
+
+
+    Starting point: START
+
+    Input: READ, GET
+
+    Output: PRINT
+
+    Math: +, -, *, /
+
+    Assignation: <--
+
+    Initialize: SET, INIT
+
+    Add one: INCREMENT
+
+    End point: END
+
+
+  ## Pseucode Currency Converter
+
+    Answer:
+
+    1.  START
+    2. USDMont: READ
+    3. BTC Cost: READ FROM [(https://es.investing.com/currencies/usd-btc-converter)]
+    4. Total USD TO BTC: *
+    5.  PRINT: COST USD TO BTC
+    6. END
+
+
+
+
+
+
+
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="FarikAyarza/NEO-s"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
