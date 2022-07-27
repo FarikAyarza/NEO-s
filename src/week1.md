@@ -53,4 +53,11 @@ Por lo que es importante saber eso para poder desarrollar los siguientes termino
 Otro ejemplo sería el ensamblador "assembler", que es un tipo de programa informático encargado de traducir un archivo fuente, escrito en el lenguaje ensamblador, a un archivo fuente.
 Por lo que entiendo es que se requiere un alto grado de expecialización por parte de los programadores, ya que dicho lenguaje es exclusivo de un ordenador o plataforma donde se ejecuten.
 
-2. High Level Languages: 
+2. High Level Languages:
+ Según la definición que encontré se caracterizan porque la estructura semántica es muy similar a la forma como escribimos los humanos, por lo que es más sencillo codificar los algoritmos de manera mas natural, a mi entender es que en lugar de codificarlos en el lenguaje binario de las máquinas, es mucho más natural.
+ Por lo que es independiente del hardware en el que se ejecutan, de ese modo facilita al programado  centrarse en los problemas a resolverse.
+
+    Ejemplo de lenguajes de alto nivel:
+    a) C++
+    B) Fortran
+    c) Java
