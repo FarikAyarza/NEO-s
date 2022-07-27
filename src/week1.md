@@ -58,6 +58,6 @@ Por lo que entiendo es que se requiere un alto grado de expecialización por par
  Por lo que es independiente del hardware en el que se ejecutan, de ese modo facilita al programado  centrarse en los problemas a resolverse.
 
     Ejemplo de lenguajes de alto nivel:
-    a) C++
-    B) Fortran
-    c) Java
+    -a) C++
+    -B) Fortran
+    -c) Java
