@@ -124,17 +124,17 @@ HACERLO MAÑANA
 
 In this exercise you must use an iterative flow control to be able to print all the even numbers in the range of numbers from 0 to 100. Remember that you should not print each number, you should use a flow control structure to perform the exercise
 
+### Answer
+
 *   [For](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
 		for (let i = 0; i <= 100; i++) {
  			if((i % 2) == 0 ){
 			 console.log(i);
- 			}  
-		}
-
-*   [While](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+ 			} 
 
 
 2. [Bad Code](./exercises/e04/desc) exercise
+
 3. [Bad Code 2](./exercises/e05/desc) exercise
 4. [Follow Git Course](https://www.udacity.com/course/version-control-with-git--ud123)
