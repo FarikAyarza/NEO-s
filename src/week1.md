@@ -107,7 +107,12 @@ Third 1997
 
 <br>
 
-
+## Recurso adicional
+Al no comprender mucho sobre el tema, tuve que buscar información adicional y encontré este video en youtube que me ayudó mucho.
+**[Conversión de números entre Sistemas Numéricos - Técnica RÁPIDA y FÁCIL
+](https://www.youtube.com/watch?v=QrULhy0P_uU)**
 
 
 2. [MIPS](./exercises/e02/desc) exercise
+
+HACERLO MAÑANA
