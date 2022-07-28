@@ -135,6 +135,36 @@ In this exercise you must use an iterative flow control to be able to print all 
 
 
 2. [Bad Code](./exercises/e04/desc) exercise
+## Description
+
+The code shown below is not working in the right way, as a task you must find the error made by the developer who programmed this code and correct it, for this exercise you must explain what the error is and place the correct code
+
+### Answer
+
+    var cond = false;
+
+    if (cond == true) {
+    console.log('The cond variable is true');
+    } else {
+    console.log('The cond variable is false');
+    }
 
 3. [Bad Code 2](./exercises/e05/desc) exercise
+
+    var n = 100;
+
+    if (n == 100) {
+    console.log('This is a special number!');
+    }
+
+    if (n <= 1000) {
+    console.log('This number is almost special');
+    
+    } else {
+    console.log('Just a regular number');
+    
+    }
+    if (n % 10 == 0) {
+    console.log('This number is multiple of 10');
+    }
 4. [Follow Git Course](https://www.udacity.com/course/version-control-with-git--ud123)
