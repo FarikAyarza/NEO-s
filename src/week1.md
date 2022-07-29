@@ -115,7 +115,20 @@ Al no comprender mucho sobre el tema, tuve que buscar información adicional y e
 
 2. [MIPS](./exercises/e02/desc) exercise
 
-HACERLO MAÑANA
+    ##  Descripción
+
+    Basado en la [ guía ](#guía) y los [ ejemplos ](#ejemplos) del lenguaje de bajo nivel, crea lo siguiente
+
+    <p>1. Cree un programa que sume dos números proporcionados por el usuario</p>
+
+      .data
+        message: .asciiz "\nMy name is: Farik Ayarza!\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+    2. Crea un programa que muestre tu nombre
 
 ## Week challenges (Thursday 21 of july 2022) 💻
 
